@@ -117,10 +117,21 @@ assets/screenshots/
 ```
 
 Then display them like this:
+<p align="center">
+  <a href="assets/screenshots/Screenshot%202026-05-14%201212481.png">
+📑 View Here
+</a>
+</p>
 
-```md
-![Demo](assets/screenshots/demo.png)
-```
+<p align="center">
+  <a href="assets/screenshots/Screenshot%202026-05-14%201212481.png">
+    <img 
+      src="assets/screenshots/Screenshot%202026-05-14%201212481.png" 
+      width="800"
+      alt="Project Screenshot"
+    />
+  </a>
+</p>
 
 ---
 
