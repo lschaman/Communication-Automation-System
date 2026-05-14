@@ -70,7 +70,7 @@ Communication-Automation-System/
 │   └── requirements/
 │   │   └── Manager.xlsx
 │   ├─── screenshots/
-│        └──
+│        └── Screenshot 2026-05-14 1212481.png
 ├── send.py
 │
 └── README.md
@@ -113,13 +113,13 @@ python send.py
 Add screenshots inside:
 
 ```bash
-assets/screenshots/
+assets/screenshots/Screenshot 2026-05-14 1212481.png
 ```
 
 Then display them like this:
-<p align="center">
+<p>
   <a href="assets/screenshots/Screenshot%202026-05-14%201212481.png">
-📑 View Here
+here.
 </a>
 </p>
 
