@@ -67,10 +67,12 @@ This system improves efficiency by automating message delivery workflows and red
 Communication-Automation-System/
 │
 ├── assets/
-│   └── screenshots/
-│
+│   └── requirements/
+│   │   └── Manager.xlsx
+│   ├─── screenshots/
+│        └──
 ├── send.py
-├── requirements.txt
+│
 └── README.md
 ```
 
