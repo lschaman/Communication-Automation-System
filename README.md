@@ -23,7 +23,8 @@
 
 ---
 
-# 📌 Overview
+<h3>📌 Overview
+</h3>
 
 The **Communication Automation System** is a Python-based automation project designed to streamline repetitive communication tasks through browser automation and Excel data processing.
 
@@ -31,7 +32,8 @@ This system improves efficiency by automating message delivery workflows and red
 
 ---
 
-# ✨ Features
+<h3>✨ Features
+</h3>
 
 ✅ Automated Message Sending  
 ✅ Excel Data Handling  
@@ -41,7 +43,8 @@ This system improves efficiency by automating message delivery workflows and red
 
 ---
 
-# 🛠 Technologies Used
+<h3>🛠 Technologies Used
+</h3>
 
 | Technology | Purpose |
 |---|---|
@@ -52,7 +55,8 @@ This system improves efficiency by automating message delivery workflows and red
 
 ---
 
-# ⚙️ How It Works
+<h3>⚙️ How It Works
+</h3>
 
 1. Reads client/contact data from Excel files  
 2. Processes communication workflow  
@@ -61,7 +65,8 @@ This system improves efficiency by automating message delivery workflows and red
 
 ---
 
-# 📂 Project Structure
+<h3>📂 Project Structure
+</h3>
 
 ```bash
 Communication-Automation-System/
@@ -78,21 +83,25 @@ Communication-Automation-System/
 
 ---
 
-# 🚀 Installation
+<h3>🚀 Installation
+</h3>
 
-## Clone Repository
+<h3> Clone Repository
+</h3>
 
 ```bash
 git clone https://github.com/Ischaman/Communication-Automation-System.git
 ```
 
-## Open Project
+<h3>Open Project
+</h3>
 
 ```bash
 cd Communication-Automation-System
 ```
 
-## Install Dependencies
+<h3>Install Dependencies
+</h3>
 
 ```bash
 pip install -r requirements.txt
@@ -100,7 +109,8 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Usage
+<h3> ▶️ Usage
+</h3>
 
 ```bash
 python send.py
@@ -135,7 +145,8 @@ here.
 
 ---
 
-# 🔮 Future Improvements
+<h3>🔮 Future Improvements
+</h3>
 
 - GUI Integration
 - AI-Based Message Personalization
@@ -144,7 +155,8 @@ here.
 
 ---
 
-# 👨‍💻 Author
+<h2>👨‍💻 Author
+</h2>
 
 ### Chaman Jangid
 
@@ -152,11 +164,3 @@ here.
 🚀 Passionate About Automation & Intelligent Systems  
 
 ---
-
-# ⭐ Support
-
-If you found this project helpful:
-
-🌟 Star the repository  
-🍴 Fork the project  
-📢 Share with others  
